@@ -1,1 +1,1 @@
-AirBnb Clone - Web Static by Mohamed ESSRHIR
+AirBnb Clone by Mohamed ESSRHIR
